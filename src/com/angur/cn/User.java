@@ -12,7 +12,7 @@ package com.angur.cn;
 /**
  * ClassName: User <br/>
  * Description: 用户Bean <br/>
- * Reason: 注释表述不明确 <br/>
+ * Reason: 注释表述不明确，阐述用途 <br/>
  * Date: 2017年6月14日 下午11:11:03 <br/>
  * 
  * @author Angur
