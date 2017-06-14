@@ -11,7 +11,7 @@ package com.angur.cn;
 
 /**
  * ClassName: User <br/>
- * Description: TODO ADD FUNCTION. <br/>
+ * Description: 用户Bean <br/>
  * Reason: TODO ADD REASON. <br/>
  * Date: 2017年6月14日 下午11:11:03 <br/>
  * 
